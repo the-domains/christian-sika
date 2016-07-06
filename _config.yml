@@ -1,7 +1,7 @@
 name: Christian Sika
 favicon: null
-layout_spectrum: 0.5551130443345755
-typography_spectrum: 0.49127752310596406
+layout_spectrum: 0.36836
+typography_spectrum: 0.50137
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#363636'
+    - '#b1aca6'
+    - '#565553'
+    - '#e0dbd5'
+    - '#1d1d1d'
   brandStrength: 0.7863789808470756
   lightness: 0.5116267551202327
   saturation: 0.579602736281231
