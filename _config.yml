@@ -22,8 +22,8 @@ collections:
       number: 10
 content: []
 navigation:
-  - id: af01c375-0442-459d-ab59-155f83b24bb8
-    name: Christian Sika
+  - name: Christian Sika
+    id: af01c375-0442-459d-ab59-155f83b24bb8
     type: content
 layout_spectrum: 0.36836
 color:
@@ -42,3 +42,4 @@ content_rating:
 typography_spectrum: 0.50137
 opengraph: {}
 title: senior ux designer
+description: The grid blows
