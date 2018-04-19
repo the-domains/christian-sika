@@ -1,6 +1,9 @@
 name: Christian Sika
 analytics: {}
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:fu@thegrid.io'
+    label: You are a criminal
 github: true
 cta:
   bucket: null
